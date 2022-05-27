@@ -1,0 +1,7 @@
+？？？:啊啊啊啊啊啊！;
+changeFigure:none -next;
+:失去   韶贵妃的护身符  x 1;
+changeFigure:微信图片_20220521030158.png -left -next;
+师清华:吓死我了……;
+师清华:董老师怎么会……变成那样子……;
+choose:去楼门口:门口.txt|去教师办公室:END1·暴毙农机.txt;

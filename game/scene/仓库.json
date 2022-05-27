@@ -1,0 +1,1 @@
+[{"type":"bg","bg":"仓库.jpg","noBg":false,"next":true},{"type":"dialog","speaker":"师清华","content":"要怎么做？","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"在这里待一晚上等待救援","scene":"END7 · 里世界.txt"},{"text":"四处搜寻","scene":"END6·逃离农机的顾里.txt"}]}]

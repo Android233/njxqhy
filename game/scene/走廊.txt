@@ -1,0 +1,6 @@
+changeBg:走廊.jpg -next
+师清华:好长的走廊……;
+师清华:感觉好像怎么样也走不完……;
+changeFigure:董婷.png -next;
+？？？:清华……;
+choose:使用   韶贵妃的护身符:use护身符.txt|什么都不做:END2·催眠女神之爱.txt;

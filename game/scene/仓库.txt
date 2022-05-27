@@ -1,0 +1,3 @@
+changeBg:仓库.jpg -next
+师清华:要怎么做？;
+choose:在这里待一晚上等待救援:END7 · 里世界.txt|四处搜寻:END6·逃离农机的顾里.txt;

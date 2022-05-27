@@ -1,0 +1,14 @@
+changeBg:走廊.jpg
+师清华:嗯？;
+师清华:为什么走不完……;
+bgm:angel.mp3;
+changeFigure:董婷.png -next;
+？？？:清华——;
+？？？:才考了这么点分，你对得起我吗？;
+？？？:你对得起吗！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！;
+changeFigure:none -next;
+changeBg:none
+intro:法国贵妇被刺穿了|肚子里的肠子被翻了出来|血流喷涌而出|这就是她的结局。;
+changeBg:肠子.png
+changeBg:Over.png -next
+:END2 · 催眠女神之爱;

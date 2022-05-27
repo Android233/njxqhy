@@ -1,0 +1,3 @@
+Game_name:农机校绮幻夜;
+Title_img:247.png;
+Title_bgm:Saint Succubus.wav;

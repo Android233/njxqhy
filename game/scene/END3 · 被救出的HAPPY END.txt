@@ -1,0 +1,10 @@
+changeFigure:none;
+changeBg:蓝血.png -next
+:才3分钟左右，你便听见了警车的鸣笛;
+:你被救出来了。;
+:可是你知道。;
+:农机校里到底存在着什么样的怪物。;
+:以后在晚自习睡觉这种事。;
+:还是不要做了。;
+changeBg:Over.png -next
+:END3 · 被救出的HAPPY END;

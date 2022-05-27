@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"获得了   韶贵妃的护身符 x 1","vocal":"","ignoreSpeaker":true},{"type":"choose","chooseItem":[{"text":"出去","scene":"走廊.txt"},{"text":"查看手机","scene":"手机.txt"}]}]

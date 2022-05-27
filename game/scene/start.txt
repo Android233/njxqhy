@@ -1,0 +1,3 @@
+intro:本游戏比较恐怖（并不），想润赶紧润;
+bgm:脑叶.mp3;
+changeScene:华子刚睡醒.txt;

@@ -1,0 +1,24 @@
+bgm:angel.mp3;
+changeBg:blood.png -next
+:你睡了很久。;
+:时间一分一秒地逝去。;
+:你都不知道发生了什么;
+changeBg:blood.png
+:好漂亮的枫叶。;
+changeBg:肠子.png -next
+changeFigure:end1.png;
+:可怜的皇后娘娘。;
+:都不知道自己是怎么死的。;
+:那个怪物，把清华撕裂成两半。;
+:清华的五脏六腑都暴露了出来。;
+:第二天，韶贵妃和敏德妃都惊讶。;
+:明明昨天还在谈笑风生的姐妹。;
+:今天就变成了，如同肉酱一样。;
+:真恶心，那个ghost。;
+:做了那种事。;
+:好过分。;
+:可是清华，已经死了。;
+:在柏树园找个风水宝地葬了吧。;
+changeFigure:none -next;
+:END1 · 暴毙于农机的凄惨皇后;
+changeBg:Over.png

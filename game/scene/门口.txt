@@ -1,0 +1,3 @@
+changeBg:蓝血.png -next
+师清华:上锁了。;
+choose:去美术教室:美术教室.txt|去图书馆:美术教室.txt|去保健室:保健室.txt|去楼顶:END4-凤驾跃祥瑞.txt|去仓库:仓库.txt;

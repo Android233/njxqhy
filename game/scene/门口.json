@@ -1,0 +1,1 @@
+[{"type":"bg","bg":"蓝血.png","noBg":false,"next":true},{"type":"dialog","speaker":"师清华","content":"上锁了。","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"去美术教室","scene":"美术教室.txt"},{"text":"去图书馆","scene":"美术教室.txt"},{"text":"去保健室","scene":"保健室.txt"},{"text":"去楼顶","scene":"END4-凤驾跃祥瑞.txt"},{"text":"去仓库","scene":"仓库.txt"}]}]
